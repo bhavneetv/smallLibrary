@@ -1,4 +1,4 @@
-package practice.clas;
+bh
 
 import java.util.Scanner;
 
@@ -38,9 +38,9 @@ final class library {
             default -> throw new AssertionError();
         }
 
-    }
+    }d
 
-    void displayArray(String a[], boolean b) {
+    void displafyArray(String a[], boolean b) {
         for (String element : a) {
             System.out.print(element + " ");
 
@@ -51,7 +51,7 @@ final class library {
         }
 
     }
-
+f
     void addBooks() {
 
         System.out.print("Enter the name of the book you want to add: ");
@@ -69,6 +69,7 @@ final class library {
         libraryFirst();
 
     }
+    //aas
 
     void issueBook() {
         System.out.print("Avaiable books in library :");
